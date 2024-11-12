@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi! I'm Danil, Python Backend developer
 
+
+<div id="social" align="center">
+  <a href="https://t.me/THEDAN320">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badgelogo=telegramlogoColor=white" alt="Telegram">
+  </a>
+</div>div
 <!--
 **THEDAN320/THEDAN320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
