@@ -1,110 +1,68 @@
+<p align="center">Hey! I'm Danil 👋</p>
+
+###
+
+<h2 align="left">🧠About me:</h2>
+<p align="left">- Independent 19 y.o. developer<br>- Python backend (Fastapi, SQLAlchemy, PostgreSQL and etc.)<br>- I love clean code, architecture, TDD, DDD</p>
+
+###
+
+<h2 align="left">📬 Contacts:</h2>
+
+###
+
 <div align="center">
-  <a href="https://t.me/thedan320/">
-    <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <a href="https://t.me/THEDAN320" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
 </div>
 
-<h1 align="center">Welcome to my GitHub Page. I am Danil, a python backend developer.</h1>
+###
 
-## My favorite tools and technologies ⚙️
+<h2 align="left">🧰 Technologies and tools:</h2>
 
-> Tools and technologies that I have worked with and am interested in
+###
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="#macropower-tech">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>Python
-      </td>
-         <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-        <br>Github
-      </td>
-            <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-        <br>Rest API
-      </td>
-            <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-        <br>Nginx
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-    </tr>
-    <tr>
-      <td align="center"  width="96">
-          <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-        <br>GitLab
-      </td>
-      <td align="center"  width="96">
-          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-        <br>PostgreSQL
-      </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-        <br>RabbitMQ
-      </td>
-    </tr>
-     <tr>
-          <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-      </td>
-              <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-        <br>sentry
-      </td>
-      <td align="center" width="96">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-        <br>Celery
-      </td>
-      <td align="center" width="96">
-          <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-        <br>Pytest
-      </td>
-    </tr>
-   <tr>
-   </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-### Github stats 📊
+###
+
+<h2 align="left">📊 Github stats:</h2>
+
+###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=THEDAN320&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=THEDAN320&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=THEDAN320&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=THEDAN320&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="THEDAN320's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=THEDAN320&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="THEDAN320's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEDAN320&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-</div>
+<img src="https://raw.githubusercontent.com/THEDAN320/THEDAN320/output/snake.svg" alt="Snake animation" />
 
 ###
