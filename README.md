@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Danil 👋</h1><br>
 
-### 🧠About me
+### 🧠About me:
 
 ---
 
