@@ -1,4 +1,5 @@
-<h1 align="center">Hey! I'm Danil 👋</h1><br>
+<h1 align="center">Hey! I'm Danil 👋</h1>
+
 ### 🧠About me:
 <h3 align="left">- Independent 19 y.o. developer<br>- Python backend (Fastapi, SQLAlchemy, PostgreSQL and etc.)<br>- I love clean code, architecture, TDD, DDD</h3><br>
 
