@@ -1,14 +1,12 @@
 <h1 align="center">Hey! I'm Danil 👋</h1><br>
 
-<h2 align="left">🧠About me:</h2><br>
+### 🧠About me
 
 ---
 
 <h3 align="left">- Independent 19 y.o. developer<br>- Python backend (Fastapi, SQLAlchemy, PostgreSQL and etc.)<br>- I love clean code, architecture, TDD, DDD</h3><br>
 
-###
-
-<h2 align="left">📬 Contacts:</h2>
+### 📬 Contacts:
 
 ---
 
@@ -18,9 +16,7 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">🧰 Technologies and tools:</h2>
+### 🧰 Technologies and tools:
 
 ---
 
@@ -50,9 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
-
-<h2 align="left">📊 Github stats:</h2>
+### 📊 Github stats:
 
 ---
 
