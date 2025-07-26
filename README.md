@@ -1,13 +1,10 @@
-<a href="https://t.me/thedan320/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
+<div align="center">
+  <a href="https://t.me/thedan320/">
+    <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
 </div>
-<p></p>
-<p align="justify">
-Welcome to my GitHub Page. I am Danil Mironenko and now python backend developer.
 
-</p>
+<h1 align="center">Welcome to my GitHub Page. I am Danil, a python backend developer.</h1>
 
 ## My favorite tools and technologies ⚙️
 
@@ -96,7 +93,7 @@ Welcome to my GitHub Page. I am Danil Mironenko and now python backend developer
   </table>
 </div>
 
-###
+### Github stats 📊
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=THEDAN320&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
