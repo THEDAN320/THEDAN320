@@ -6,7 +6,7 @@
 
 <h2 align="left">📬 Contacts:</h2>
 
-###
+---
 
 <div align="center">
   <a href="https://t.me/THEDAN320" target="_blank">
@@ -18,7 +18,7 @@
 
 <h2 align="left">🧰 Technologies and tools:</h2>
 
-###
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -50,12 +50,12 @@
 
 <h2 align="left">📊 Github stats:</h2>
 
-###
+---
 
 <div align="center">
   <div class="container">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=THEDAN320&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
       <img src="https://github-readme-stats.vercel.app/api?username=THEDAN320&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=THEDAN320&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   </div>
    <br>
   <img src="https://github-profile-trophy.vercel.app?username=THEDAN320&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
