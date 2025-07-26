@@ -2,13 +2,11 @@
 
 ### 🧠About me:
 
----
-
 <h3 align="left">- Independent 19 y.o. developer<br>- Python backend (Fastapi, SQLAlchemy, PostgreSQL and etc.)<br>- I love clean code, architecture, TDD, DDD</h3><br>
 
-### 📬 Contacts:
-
 ---
+
+### 📬 Contacts:
 
 <div align="center">
   <a href="https://t.me/THEDAN320" target="_blank">
@@ -16,9 +14,9 @@
   </a>
 </div>
 
-### 🧰 Technologies and tools:
-
 ---
+
+### 🧰 Technologies and tools:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -46,9 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-### 📊 Github stats:
-
 ---
+
+### 📊 Github stats:
 
 <div align="center">
   <div class="container">
