@@ -94,25 +94,6 @@ Welcome to my GitHub Page. I am Danil Mironenko and now python backend developer
  </tr>
 </table>
 
-## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="THEDAN320's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=THEDAN320&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="THEDAN320's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEDAN320&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=THEDAN320&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
-
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -135,5 +116,12 @@ Welcome to my GitHub Page. I am Danil Mironenko and now python backend developer
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/THEDAN320/THEDAN320/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/THEDAN320/THEDAN320/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="THEDAN320's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=THEDAN320&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="THEDAN320's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEDAN320&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
 
 ###
